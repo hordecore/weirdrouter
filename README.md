@@ -1,4 +1,7 @@
-weirdrouter
-===========
+# Weird Router
 
-RPM package that make your CentOS become provider-level managed access server
+Цель - простой в установке и интеграции роутер на базе СТАНДАРТНОГО CentOS 6
+
+# Основные идеи
+- Никаких патчей и так далее, доверяемся тому, что в репозиториях
+- Всё что нужно - указываем в зависимостях
